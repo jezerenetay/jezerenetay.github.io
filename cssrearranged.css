@@ -1,6 +1,5 @@
 @font-face{
-    font-family: myFirstFont;
-    src: url(Lobster_1.3.otf);
+    
 }
 
 html {
@@ -336,7 +335,7 @@ h4{
 
 h5{
     color: #ffffff;
-    font-family:'Lobster Two';
+    font-family: 'Lobster Two';
     font-size: 64px;
     text-shadow: 2px 4px #91845a;
     text-decoration: underline;
@@ -353,7 +352,7 @@ h5{
 }
 .grad-certs p{
     color: #000000;
-     font-family:'Lobster Two';
+     font-family: 'Lobster Two';
     font-size: 22px;
     padding: 0 2em 1em 0;
 }
@@ -388,7 +387,7 @@ h5{
 
 h6{
     color: #ffffff;
-    font-family:'Lobster Two';
+    font-family: 'Lobster Two';
     font-size: 64px;
     text-shadow: 2px 4px #91845a;
     text-decoration: underline;
@@ -410,7 +409,7 @@ h6{
 
 h7{
     color: #ffffff;
-        font-family:'Lobster Two';
+        font-family: 'Lobster Two';
     font-size: 64px;
     text-shadow: 2px 4px  #91845a;
     text-decoration: underline;
